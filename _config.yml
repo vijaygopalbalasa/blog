@@ -1,18 +1,18 @@
 title: San Status
 logo: /assets/icons/Icon-72.png
-description: Santhosh Veer - Status and Text notes.
+description: Vijaygopal Balasa - Status and Text notes.
 lang: en
 timezone: Asia/Kolkata
 author:
-  name: "Santhosh Veer"
-  twitter: "santhoshveerece"
-  email: "me@santhoshveer.com"
+  name: "Vijaygopal Balasa"
+  twitter: "Vijaygopalbala1"
+  email: "vijaygopal@androidstrike.com"
   url: "https://status.vijaygopal.github.io"
 
 baseurl:
 url: https:///status.vijaygopal.github.io
 
-email: me@santhoshveer.com
+email: vijaygopal@androidstrike.com
 
 markdown: kramdown
 highlighter: none
@@ -37,7 +37,7 @@ compress_html:
   startings: []
 
 twitter:
-  username: santhoshveerece
+  username: vijaygopalbala1
   card: summary
 
 defaults:
