@@ -1,4 +1,4 @@
-title: San Status
+title: Vijaygopal Balasa
 logo: /assets/icons/Icon-72.png
 description: Vijaygopal Balasa - Status and Text notes.
 lang: en
@@ -7,10 +7,10 @@ author:
   name: "Vijaygopal Balasa"
   twitter: "Vijaygopalbala1"
   email: "vijaygopal@androidstrike.com"
-  url: "https://vijaygopalbalasa.github.io/"
+  url: "https://vijaygopalbalasa.github.io/blog"
 
 baseurl:
-url: https:///status.vijaygopal.github.io
+url: https:///status.vijaygopal.github.io/blog
 
 email: vijaygopal@androidstrike.com
 
