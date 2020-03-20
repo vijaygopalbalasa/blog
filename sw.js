@@ -6,8 +6,8 @@
 	 */
 	 
 	const cacheName = 'status.santhoshveer-superpwa';
-	const startPage = 'https://status.santhoshveer.com/';
-	const offlinePage = 'https://status.santhoshveer.com/offline/';
+	const startPage = 'https://status.vijaygopal.github.io';
+	const offlinePage = 'https://status.vijaygopal.github.io/offline/';
 	const filesToCache = [startPage, offlinePage];
 	const neverCacheUrls = [/\/wp-admin/,/\/wp-login/,/preview=true/];
 
