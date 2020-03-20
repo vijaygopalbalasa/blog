@@ -14,7 +14,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: _site
-  repo: mskian/status-blog
+  repo: vijaygopalbalasa/blog
   token: $GITHUB_TOKEN
   keep_history: true
   fqdn: vijaygopalbalasa.github.io
